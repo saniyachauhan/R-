@@ -1,6 +1,7 @@
 # ============================================================
 #  BCA 4th Semester | R Programming Assignment
 #  Student  : Sunny Rana
+#  Status   : DEBARRED
 #  Roll No  : BCA/4/SET4/01
 #  Deadline : 10 April 2026
 # ============================================================
@@ -10,7 +11,7 @@
 
 cat("===== Q1: Personalised Greeting =====\n")
 
-name     <- "Aaditya Chauhan"
+name     <- "Sunny Rana"
 age      <- 20L
 branch   <- "BCA"
 semester <- 4L
